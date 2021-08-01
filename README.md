@@ -9,7 +9,7 @@ Notes for themers: In addition to the udpated theme, we have introduced a theme 
 Version number notes: For a while we’ve been using a 4 digit version number and reserved the 4th digit for device-specific updates. For instance, we find and fix a device-specific issue like decryption of data on Nexus 5, we would release that as a 2.8.7.1. After a while, some people would start asking where 2.8.7.1 was for other devices. So, going forward we have decided to change the numbering scheme to 3.0.0-2, etc. Our hope is that this version numbering scheme will more clearly identify that the 4th digit does not indicate a version change for the code base.
 
 this Image of Twrp is Compiled with Latest 2018 Source Code. So enjoy. :p
-
+![GitHub Logo](https://github.com/jacksparrow90/samsung_twrp/blob/main/gsmarena_001.jpg)
 
 Bugs:
 You Tell :p
